@@ -1,0 +1,6 @@
+.venv
+.env
+.ipynb_checkpoint
+
+log/
+data/
